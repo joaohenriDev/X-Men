@@ -22,6 +22,8 @@ O Projeto X-Men - Seleção de Personagens é uma página web interativa que apr
 
 3 - Visualizando Detalhes: Para obter informações detalhadas sobre um personagem, clique no personagem desejado. A imagem maior do personagem será exibida na parte superior da página, junto com o nome e uma descrição dos poderes e habilidades do herói.
 
+- Opcional: https://joaohenridev.github.io/X-Men/
+
 
 # Estrutura do Projeto
 
